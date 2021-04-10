@@ -1,5 +1,4 @@
-# web-projects
-Vanilla JavaScript
+# Web projects with Vanilla JavaScript
 
 ## Direct links to live demonstration of the projects
 
